@@ -1,1 +1,1 @@
-# guessNumber Sinple game made with Javascript
+# guessNumber Game made with Javascript
